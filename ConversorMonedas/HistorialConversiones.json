@@ -1,0 +1,32 @@
+[
+  {
+    "Tipo": "Conversión Básica",
+    "Mensaje": "COP → USD",
+    "Monto": 5000.0,
+    "Resultado": 1.2261
+  },
+  {
+    "Tipo": "Conversión Personalizada",
+    "Mensaje": "COP → MXN",
+    "Monto": 5000.0,
+    "Resultado": 22.93
+  },
+  {
+    "Tipo": "Conversión Múltiple",
+    "Mensaje": "COP → MXN",
+    "Monto": 8000.0,
+    "Resultado": 36.687999999999995
+  },
+  {
+    "Tipo": "Conversión Múltiple",
+    "Mensaje": "COP → USD",
+    "Monto": 8000.0,
+    "Resultado": 1.96176
+  },
+  {
+    "Tipo": "Conversión Múltiple",
+    "Mensaje": "COP → BRL",
+    "Monto": 8000.0,
+    "Resultado": 10.656
+  }
+]
